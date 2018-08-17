@@ -1,4 +1,4 @@
-# Remote Control PC
+# Control PC with android Mobile
 
 Use your Android phone to control your Laptop.
 
